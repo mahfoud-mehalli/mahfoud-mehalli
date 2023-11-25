@@ -1,4 +1,4 @@
-### Hi there 👋 | I'm Mahfoud MEHALLI
+# Hi there 👋 | I'm Mahfoud MEHALLI
 
 ## MERN Stack Developer 👨‍💻
 
