@@ -18,6 +18,8 @@
 
 - ⚡ Fun fact: I'm obsessed with Senku, the character from the "Dr. Stone" anime. He's a genius, isn't he?
 
+
+
 <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=mahfoud-mehalli&show_icons=true&theme=highcontrast" />
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahfoud-mehalli&layout=compact" />
 
