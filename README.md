@@ -1,6 +1,6 @@
 # Hi there 👋 | I'm Mahfoud MEHALLI
 
-## MERN Stack Developer 👨‍💻
+## Front-end Developer 👨‍💻
 
 - 🔭 I’m currently working on some personal projects
 
@@ -16,7 +16,7 @@
 
 - 📫 Please do not hesitate to **Hire me**
 
-- ⚡ Fun fact: I'm obsessed with Senku, the character from the "Dr. Stone" anime. He's a genius, isn't he?
+- ⚡ Fun fact: I'm the developer who don't drink coffee | I'm obsessed with Senku, the character from the "Dr. Stone" anime. He's a genius, isn't he?
 
 
 
