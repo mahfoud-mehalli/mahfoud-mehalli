@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **<mahfoudmehalli12345@gmail.com>**
 
-- 📫 Please do not hesitate to **Hire me**
+- 📫 **Hire me** **[Resume]([https://github.com/mahfoud=mehalli?tab=repositories](https://www.canva.com/design/DAF2QoeeK2Y/0Js-cTBao5fapUlqlQ6fYw/view?utm_content=DAF2QoeeK2Y&utm_campaign=designshare&utm_medium=link&utm_source=editor))**
 
 - ⚡ Fun fact: I'm the developer who don't drink coffee | I'm obsessed with Senku, the character from the "Dr. Stone" anime. He's a genius, isn't he?
 
