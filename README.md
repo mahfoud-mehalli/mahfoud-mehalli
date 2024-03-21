@@ -22,6 +22,10 @@
 
 <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=mahfoud-mehalli&show_icons=true&theme=highcontrast" />
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahfoud-mehalli&theme=great-gatsby&layout=compact" />
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahfoud-mehalli&theme=great-gatsby&layout=compact" />
+
+
+![Top Langs]()
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
