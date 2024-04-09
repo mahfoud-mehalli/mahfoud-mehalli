@@ -1,4 +1,4 @@
-# Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) | I'm Mahfoud MEHALLI
+# Hi there | I'm Mahfoud MEHALLI  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 ## Web Developer 👨‍💻
 
@@ -19,7 +19,11 @@
 - ⚡ Fun fact: I'm the developer who doesn't drink coffee | I'm obsessed with Senku, the character from the "Dr. Stone" anime. He's a genius, isn't he?
 
 
-## GitHub Stats 👨‍💻
+## My Stack
+
+
+
+## GitHub Stats 
 
 <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=mahfoud-mehalli&show_icons=true&theme=highcontrast" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahfoud-mehalli&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=060606&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
