@@ -26,7 +26,7 @@
 ## GitHub Stats 
 
 <img align="left" width="60%" src="https://github-readme-stats.vercel.app/api?username=mahfoud-mehalli&show_icons=true&theme=highcontrast" />
-<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahfoud-mehalli&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=060606&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+<img align="right" width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahfoud-mehalli&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=060606&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
