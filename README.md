@@ -60,7 +60,7 @@
 
 <p align="center">
 <a href="https://github.com/7afde">
-  <img width="51.5%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mahfoud-mehalli&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img width="51.5%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mahfoud-mehalli&layout=compact&langs_count=8&theme=highcontrast&count_private=true"/>
+  <img width="49.8%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mahfoud-mehalli&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img width="49.8%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mahfoud-mehalli&layout=compact&langs_count=8&theme=highcontrast&count_private=true"/>
 </a>
 </p>
