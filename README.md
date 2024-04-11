@@ -48,18 +48,18 @@
 ## GitHub Stats 
 
 <p align="center">
-  <a href="https://github.com/7afde">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahfoud-mehalli&theme=highcontrast" alt="7afde's GitHub streak"/>
+  <a href="https://github.com/mahfoud-mehalli">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahfoud-mehalli&theme=highcontrast" alt="mahfoud-mehalli's GitHub streak"/>
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/7afde">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahfoud-mehalli&theme=highcontrast" alt="7afde's GitHub Contribution"/>
+  <a href="https://github.com/mahfoud-mehalli">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahfoud-mehalli&theme=highcontrast" alt="mahfoud-mehalli's GitHub Contribution"/>
   </a>
 </p>
 
 <p align="center">
-<a href="https://github.com/7afde">
+<a href="https://github.com/mahfoud-mehalli">
   <img width="49.5%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mahfoud-mehalli&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img width="49.5%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mahfoud-mehalli&layout=compact&langs_count=8&theme=highcontrast&count_private=true"/>
 </a>
