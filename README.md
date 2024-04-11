@@ -49,7 +49,19 @@
 <img align="left" width="55%" src="https://github-readme-stats.vercel.app/api?username=mahfoud-mehalli&show_icons=true&theme=highcontrast" />
 <img align="right" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahfoud-mehalli&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=060606&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 
-<!--
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
--->
+<p align="center">
+  <a href="https://github.com/7afde">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=7afde&theme=algolia" alt="7afde's GitHub streak"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/7afde">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=7afde&theme=algolia" alt="7afde's GitHub Contribution"/>
+  </a>
+</p>
+<p align="center">
+<a href="https://github.com/7afde">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=7afde&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=7afde&layout=compact&langs_count=8&theme=algolia&count_private=true"/>
+</a>
+</p>
