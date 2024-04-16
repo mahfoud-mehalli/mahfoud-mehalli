@@ -47,11 +47,14 @@
 
 ## GitHub Stats 
 
+<!-- 
 <p align="center">
   <a href="https://github.com/mahfoud-mehalli">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahfoud-mehalli&theme=highcontrast" alt="mahfoud-mehalli's GitHub streak"/>
   </a>
 </p>
+-->
+
 <p align="center">
   <a href="https://github.com/mahfoud-mehalli">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahfoud-mehalli&theme=highcontrast" alt="mahfoud-mehalli's GitHub Contribution"/>
