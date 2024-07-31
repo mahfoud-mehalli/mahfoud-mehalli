@@ -12,7 +12,7 @@
 
 - 👯 I’m open to work and collaborations
 
-- 📫 How to reach me **<mahfoudmehalli12345@gmail.com>**
+- 📫 How to reach me **<contact@mahfoudbem.tech>**
 
 - 📫 **Hire me** **[Resume](https://www.canva.com/design/DAF-CecaJAE/O03-890uN_9V_9q54WHMDg/view?utm_content=DAF-CecaJAE&utm_campaign=designshare&utm_medium=link&utm_source=editor#1)**
 
