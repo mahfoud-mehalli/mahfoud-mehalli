@@ -16,7 +16,7 @@
 
 - 📫 **Hire me** **[Resume](https://www.canva.com/design/DAF-CecaJAE/O03-890uN_9V_9q54WHMDg/view?utm_content=DAF-CecaJAE&utm_campaign=designshare&utm_medium=link&utm_source=editor#1)**
 
-- ⚡ Fun fact: I'm the developer who doesn't drink coffee | I'm obsessed with Senku, the character from the "Dr. Stone" anime. He's a genius, isn't he?
+- ⚡ Fun fact: I'm the developer who doesn't drink coffee
 
 
 ## My Stack
