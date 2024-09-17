@@ -1,18 +1,15 @@
 # Hi there | I'm Mahfoud MEHALLI  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-## Web Developer 👨‍💻
+## Full Stack Developer 👨‍💻
 
-- 🔭 I’m currently working on some personal projects
 
-- 🌱 I’m currently using **MERN** technologies
-
-- 🌱 Even though I'm still learning
+- 🌱 I use **MERN** technologies
 
 - 👨‍💻 All of my public projects are available at **[GitHub](https://github.com/mahfoud=mehalli?tab=repositories)**
 
 - 👯 I’m open to work and collaborations
 
-- 📫 How to reach me **<contact@mahfoudbem.tech>**
+- 📫 How to reach me **<mahfoudbem.contact@gmail.com>**
 
 - 📫 **Hire me** **[Resume](https://www.canva.com/design/DAF-CecaJAE/O03-890uN_9V_9q54WHMDg/view?utm_content=DAF-CecaJAE&utm_campaign=designshare&utm_medium=link&utm_source=editor#1)**
 
